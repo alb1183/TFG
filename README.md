@@ -20,4 +20,6 @@ En el presente documento se tratarán varias propuestas para afrontar estos reto
 
 Para realizar la solución propuesta se hará uso de la tecnología Blockchain de Hyperledger, junto con IPFS y un servicio proxy REST denominado BSH (Blockchain Security Handler). Gracias a estas tecnologías se creará un sistema compuesto por una blockchain para registrar transacciones, un nodo IPFS para persistir los datos de forma distribuida y un BSH que sirve de punto de acceso ligero y seguro para multitud de dispositivos clientes. En la siguiente figura se muestra el esquema simplificado del sistema que se realizará.
 
+![TFG](Esquemas/esquema-participantes.png)
+
 Además, en el documento se realizará un estado del arte que servirá para contextualizar el desarrollo de la solución explicando las tecnologías e investigaciones actuales que traten con algún tema de interés para el mismo.
