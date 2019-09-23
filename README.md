@@ -10,6 +10,8 @@ La estructura del repositorio es la siguiente:
 * **Documento:** Directorio con la memoria y la presentación.
 * **Esquemas:** Directorio con los esquemas más representativos.
 
+Se dispone de un video demo en el siguiente enlace: https://www.youtube.com/watch?v=fK0Qo9Wd-z4
+
 ### Resumen
 En la actualidad estamos viviendo uno de los cambios más importantes de nuestra historia, está comenzando el inicio de la digitalización de la sociedad. Este proceso se ha acelerado gracias a la tecnología IoT (Internet of Things - Internet de las Cosas), su intención es que cualquier aparato disponga de pequeños ordenadores en su interior para ser capaz de acceder a Internet y comunicar los datos que producen. Esta tecnología permitirá saber en tiempo real los datos de decenas de sensores y dispositivos en instalaciones amplias (fábricas, hogares, ciudades, etc...) desde cualquier parte del mundo.
 
