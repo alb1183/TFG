@@ -1,14 +1,13 @@
 # Trabajo Fin de Grado - Facultad de Informática de la Universidad de Murcia
 ## Middleware de seguridad para Blockchain en escenarios IoT
-En este repositorio se dispone del código fuente de la implementación realiza para lograr el TFG, además, se incluye la memoria y el código Latex de la misma.
+En este repositorio se dispone del código fuente de la implementación realiza para lograr el TFG junto con la memoria descriptiva y la presentación.
 
 La estructura del repositorio es la siguiente:
 
 * **Códigos:** Directorio con el código fuente de todo lo que se ha desarrollado.
   * **BNA:** Directorio con el código de la BNA.
   * **Java:** Directorio con el código Java del BSH y de los clientes.
-* **Documento:** Directorio con la memoria.
-  * **Latex:** Directorio con el código Latex de la memoria.
+* **Documento:** Directorio con la memoria y la presentación.
 * **Esquemas:** Directorio con los esquemas más representativos.
 
 ### Resumen
